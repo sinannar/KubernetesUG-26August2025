@@ -8,7 +8,7 @@
 2. run the app to show whats happenning
 3. run aspire new to generate aspire app
     - aspire new
-4. run
+4. run (not needed)
     - dotnet run --publisher manifest --output-path manifest.json
 5. use aspirate to generate k8s deployment
     - aspirate init
